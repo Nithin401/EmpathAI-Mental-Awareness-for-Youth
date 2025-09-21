@@ -1,0 +1,7 @@
+Flask
+python-dotenv
+google-cloud-aiplatform
+google-cloud-texttospeech
+transformers
+torch
+gunicorn
